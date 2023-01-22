@@ -35,7 +35,7 @@ export default function Home() {
         }}
       >
         <Link to="/Party">
-          <BlueButton>I WANT TO PARTY</BlueButton>
+          <BlueButton>Request a Song</BlueButton>
         </Link>
       </div>
     </>
